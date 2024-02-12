@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.AppHost/AspireStarterApp.AppHost.csproj": {}
+  },
+  "projects": {
+    "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ApiService/AspireStarterApp.ApiService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ApiService/AspireStarterApp.ApiService.csproj",
+        "projectName": "AspireStarterApp.ApiService",
+        "projectPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ApiService/AspireStarterApp.ApiService.csproj",
+        "packagesPath": "/Users/chrisandoterry/.nuget/packages/",
+        "outputPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ApiService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisandoterry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/AspireStarterApp.ServiceDefaults.csproj": {
+                "projectPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/AspireStarterApp.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.AppHost/AspireStarterApp.AppHost.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.AppHost/AspireStarterApp.AppHost.csproj",
+        "projectName": "AspireStarterApp.AppHost",
+        "projectPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.AppHost/AspireStarterApp.AppHost.csproj",
+        "packagesPath": "/Users/chrisandoterry/.nuget/packages/",
+        "outputPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.AppHost/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisandoterry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ApiService/AspireStarterApp.ApiService.csproj": {
+                "projectPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ApiService/AspireStarterApp.ApiService.csproj"
+              },
+              "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.Web/AspireStarterApp.Web.csproj": {
+                "projectPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.Web/AspireStarterApp.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Aspire.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0-preview.2.23619.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/AspireStarterApp.ServiceDefaults.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/AspireStarterApp.ServiceDefaults.csproj",
+        "projectName": "AspireStarterApp.ServiceDefaults",
+        "projectPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/AspireStarterApp.ServiceDefaults.csproj",
+        "packagesPath": "/Users/chrisandoterry/.nuget/packages/",
+        "outputPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisandoterry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http.Resilience": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.ServiceDiscovery": {
+              "target": "Package",
+              "version": "[8.0.0-preview.2.23619.3, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.7.0-alpha.1, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.7.0-alpha.1, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.6.0-beta.2, )"
+            },
+            "OpenTelemetry.Instrumentation.GrpcNetClient": {
+              "target": "Package",
+              "version": "[1.6.0-beta.2, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.6.0-beta.2, )"
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.Web/AspireStarterApp.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.Web/AspireStarterApp.Web.csproj",
+        "projectName": "AspireStarterApp.Web",
+        "projectPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.Web/AspireStarterApp.Web.csproj",
+        "packagesPath": "/Users/chrisandoterry/.nuget/packages/",
+        "outputPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisandoterry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/AspireStarterApp.ServiceDefaults.csproj": {
+                "projectPath": "/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/AspireStarterApp.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

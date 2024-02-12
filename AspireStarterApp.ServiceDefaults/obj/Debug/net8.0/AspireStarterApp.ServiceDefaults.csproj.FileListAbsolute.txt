@@ -1,0 +1,12 @@
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/bin/Debug/net8.0/AspireStarterApp.ServiceDefaults.deps.json
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/bin/Debug/net8.0/AspireStarterApp.ServiceDefaults.dll
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/bin/Debug/net8.0/AspireStarterApp.ServiceDefaults.pdb
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/obj/Debug/net8.0/AspireStarterApp.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/obj/Debug/net8.0/AspireStarterApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/obj/Debug/net8.0/AspireStarterApp.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/obj/Debug/net8.0/AspireStarterApp.ServiceDefaults.AssemblyInfo.cs
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/obj/Debug/net8.0/AspireStarterApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/obj/Debug/net8.0/AspireStarterApp.ServiceDefaults.dll
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/obj/Debug/net8.0/refint/AspireStarterApp.ServiceDefaults.dll
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/obj/Debug/net8.0/AspireStarterApp.ServiceDefaults.pdb
+/Users/chrisandoterry/Desktop/Projects/Aspire/AspireStarterApp.ServiceDefaults/obj/Debug/net8.0/ref/AspireStarterApp.ServiceDefaults.dll
